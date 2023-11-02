@@ -1,2 +1,2 @@
 const merge = "merge";
-console.log(merge);
+console.log("i did merge");
